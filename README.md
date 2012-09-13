@@ -25,8 +25,7 @@ Insert before `</body>`:
 
 Best viewed under... well... IE6.
 
-http://myst729.github.com/Kill-IE6/
-```  
+http://myst729.github.com/Kill-IE6/  
 
 ###Screenshot###
 
