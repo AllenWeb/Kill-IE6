@@ -29,4 +29,4 @@ http://myst729.github.io/Kill-IE6/
 
 ###Screenshot###
 
-![Kill IE6](https://raw.github.com/myst729/Kill-IE6/gh-pages/screenshot.png)
+![Kill IE6](http://myst729.github.io/Kill-IE6/screenshot.png)
