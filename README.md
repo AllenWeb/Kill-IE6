@@ -4,6 +4,7 @@ Kill IE6
 ###Description###
 
 Tell people there are browsers far better than IE 6. Forked from MG12's [Let's kill IE6](http://www.neoease.com/lets-kill-ie6/).  
+This project is released under the [MIT license](http://opensource.org/licenses/MIT).  
 
 ###Installation###
 
