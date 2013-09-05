@@ -31,3 +31,9 @@ http://myst729.github.io/Kill-IE6/
 ###Screenshot###
 
 ![Kill IE6](http://myst729.github.io/Kill-IE6/screenshot.png)
+
+###Donation###
+
+If you think this project is helpful and would like to thank the author, please [show me the money](http://www.urbandictionary.com/define.php?term=show+me+the+money)!
+
+[![I want a Macbook Pro!](https://img.alipay.com/sys/personalprod/style/mc/btn-index.png)](https://me.alipay.com/myst)
